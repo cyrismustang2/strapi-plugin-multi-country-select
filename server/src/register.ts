@@ -3,9 +3,9 @@ import { PLUGIN_ID } from '../../admin/src/pluginId'
 
 const register = ({ strapi }: { strapi: Core.Strapi }) => {
     strapi.customFields.register({
-        name: 'country',
+        name: 'countries',
         plugin: PLUGIN_ID,
-        type: 'string',
+        type: 'json',
     });
 };
 
