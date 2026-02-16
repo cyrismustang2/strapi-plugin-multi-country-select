@@ -1,6 +1,6 @@
 # Strapi plugin multi-country-select
 
-A strapi custom field for selecting multiple countries based on the ISO 3166-1 country code standard.
+A strapi custom field for selecting multiple countries based on the ISO 3166-1 country code standard.  Updated to support strapi v5.
 
 ## Installation
 
