@@ -29,20 +29,20 @@ npm run build
 
 After installation you will find the multi-country-select at the custom fields section of the content-type builder.
 
-![multi-country select screenshot](./screenshots/multi-country-select-plugin.png)
+![multi-country select screenshot](./multi-country-select-plugin.png)
 
 Now you can select multiple counties from the list. The Alpha-2 code of the selected countries is stored as an array in the database.
 
-![multi-country select screenshot](./screenshots/multi-country-select.png)
+![multi-country select screenshot](./multi-country-select.png)
 
 You can also add more options to the select field.
-![multi-country select screenshot](./screenshots/multi-country-select-options.png)
+![multi-country select screenshot](./multi-country-select-options.png)
 
 If you add an option with the the value "ALL" (and any label), once you select this option all the countries will be deselected and the options will be disabled.
 
 `All countries:ALL`
 
-![multi-country select screenshot](./screenshots/multi-country-select-all.png)
+![multi-country select screenshot](./multi-country-select-all.png)
 
 
 ## Related
